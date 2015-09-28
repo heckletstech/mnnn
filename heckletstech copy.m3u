@@ -1,0 +1,251 @@
+#EXTM3U
+
+
+
+#EXTINF:-1, BT SPORT 1
+http://s3.iptvapi.com:8081/BTSp1/index.m3u8
+
+
+#EXTINF:-1, BT Sport ESPN
+http://s3.iptvapi.com:8081/BTSespn/index.m3u8
+
+#EXTINF:0, History
+http://balkanstream.com/stream/history/hospa042/f95de998
+
+
+#EXTINF:0, Discovery ID
+http://balkanstream.com/stream/discaveryID/hospa042/f95de998
+
+
+#EXTINF:0, ID extra
+http://balkanstream.com/stream/ID-extra/hospa042/f95de998
+
+
+#EXTINF:0, 24 Kitchen
+http://balkanstream.com/stream/24kitchen/hospa042/f95de998
+
+
+#EXTINF:-1, ABC
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+#EXTINF:-1, ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+
+#EXTINF:-1, BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+
+#EXTINF:-1, Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+
+#EXTINF:0, Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+
+
+#EXTINF:-1, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+
+#EXTINF:-1,BBC AMERICA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/147.m3u8
+
+
+#EXTINF:-1,WWW.WRESTLING
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+
+
+#EXTINF:-1,ANIMAL PLANET
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/142.m3u8
+
+
+#EXTINF:-1,MTV MUSIC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/156.m3u8
+
+
+#EXTINF:-1,DISCOVERY USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/174.m3u8
+
+
+#EXTINF:-1,CNN NEWS USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/186.m3u8
+
+
+#EXTINF:-1,NAT GEO USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/187.m3u8
+
+
+#EXTINF:-1,BBC NEWS USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/30.m3u8
+
+
+#EXTINF:-1,FOX NEWS USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8
+
+#EXTINF:-1,COOKING Channel 
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/10.m3u8
+
+
+#EXTINF:-1,DISCOVERY
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/11.m3u8
+
+
+#EXTINF:-1,FIFA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/113.m3u8
+
+
+#EXTINF:-1,SKY SPORTS 1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/128.m3u8
+
+
+#EXTINF:-1,BBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/134.m3u8
+
+
+#EXTINF:-1,WWE
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+
+
+#EXTINF:-1,ANIMAL PLANET
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/142.m3u8
+
+
+#EXTINF:-1,HALLMARK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/152.m3u8
+
+
+#EXTINF:-1,FUSETV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/163.m3u8
+
+
+#EXTINF:-1,FOOD NETWORK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/167.m3u8
+
+
+#EXTINF:-1,DISCOVERY
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/174.m3u8
+
+
+#EXTINF:-1,IFC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/178.m3u8
+
+
+#EXTINF:-1,E
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/181.m3u8
+
+
+#EXTINF:-1,OWN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/183.m3u8
+
+
+#EXTINF:-1,CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/186.m3u8
+
+
+#EXTINF:-1,NAT GEO
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/187.m3u8
+
+
+#EXTINF:-1,DESTINATION
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/22.m3u8
+
+
+#EXTINF:-1,DIY
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/23.m3u8
+
+
+#EXTINF:-1,ESPN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/29.m3u8
+
+
+#EXTINF:-1,FOX NEWS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/35.m3u8
+
+
+#EXTINF:-1,MLB
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/40.m3u8
+
+
+#EXTINF:-1,CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/5.m3u8
+
+
+#EXTINF:-1,FOOD NETWORK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/53.m3u8
+
+
+#EXTINF:-1,CBEEBIES
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/6.m3u8
+
+
+#EXTINF:-BEIN SPORT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
+
+
+#EXTINF:-1,CBS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/63.m3u8
+
+
+#EXTINF:-1,NBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/64.m3u8
+
+
+#EXTINF:-1,CW
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/65.m3u8
+
+
+#EXTINF:-1,FOX SPORTS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/66.m3u8
+
+
+#EXTINF:-1,NBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/67.m3u8
+
+
+#EXTINF:-1,FOX SPORT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/68.m3u8
+
+
+#EXTINF:-1,NBA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/70.m3u8
+
+
+#EXTINF:-1,NBC
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/71.m3u8
+
+
+#EXTINF:-1,NFL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/72.m3u8
+
+
+#EXTINF:-1,ADULT SWIM
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/78.m3u8
+
+
+#EXTINF:-1,CSPAN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/80.m3u8
+
+
+#EXTINF:-1,TBS
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/82.m3u8
+
+
+#EXTINF:-1,COMEDY CENTRAL
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/86.m3u8
+
+
+#EXTINF:-1,NAT GEO
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/96.m3u8
+
+
+#EXTINF:-1,NICK
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/97.m3u8
+
+
+
+
